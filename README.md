@@ -3,6 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brendon
 ===============================================================================================================================
 ## Junior Software Engineer
+<img style="float: right;" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/tenor.gif">
 ------------------------
 
 Software Engineering student at ALX\_AFRICA, having a strong drive to solve real world problems and learn new skills. l 'm 24/7 available to contribute my skills through volunteering, open to diverse tasks within my expertise Actively pursuing collaborative opportunities to engage in innovative projects and transform ideas into reality
