@@ -11,7 +11,7 @@ Software Engineering student at ALX\_AFRICA, having a strong drive to solve real
 * 🌍  I'm based in Namibia
 * ✉️  You can contact me at [jejebrendon722@gmail.com](mailto:jejebrendon722@gmail.com)
 * 🧠  I'm learning Python programming, C programming, Javascript.
-* 🤝  I'm open to collaborating on AirBnB Project
+* 🤝  I'm open to collaborating on interesting projects!
 * ⚡  A computer understands everything in the form of 0’s and 1’s. For example, the word ‘hello‘ is understood by a computer something like 0110100001100101011011000110110001101111. It is known as the binary language, and it is a one of the types of programming languages that the computer can understand directly(without the need of any language processor)
 
 <a href="https://www.github.com/Brendon45" target="_blank" rel="noreferrer"><img
